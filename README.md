@@ -1,7 +1,7 @@
 # RED VELVET CAKE 
 ------------------ 
-![yummy](redvelvet.jpg) 
+![yummy](download.jpg) 
 ---------------
 [Ingredients](ingredients.md)
------------
+---------------
 [Recipe](recipe.md)
